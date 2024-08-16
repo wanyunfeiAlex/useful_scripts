@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/tsdf_mesh_gen.dir/main.cpp.o -o tsdf_mesh_gen  -Wl,-rpath,/home/wan/work/MARS/third_party/open3d/install/lib:/usr/local/lib /usr/local/lib/libvdbfusion.a /home/wan/work/MARS/third_party/open3d/install/lib/libOpen3D.so -ldl /usr/local/lib/libopenvdb.so /usr/lib/x86_64-linux-gnu/libboost_iostreams.so.1.74.0 /usr/lib/x86_64-linux-gnu/libtbb.so 

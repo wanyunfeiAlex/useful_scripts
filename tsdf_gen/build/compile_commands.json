@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wan/work/MARS/dataset/LIVO2_SZB/scripts/tsdf_gen/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_IOSTREAMS_DYN_LINK -DFMT_HEADER_ONLY=0 -DFMT_STRING_ALIAS=1 -DFMT_USE_WINDOWS_H=0 -DOPENVDB_ABI_VERSION_NUMBER=9 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/include/eigen3 -isystem /home/wan/work/MARS/third_party/open3d/install/include -isystem /home/wan/work/MARS/third_party/open3d/install/include/open3d/3rdparty -O3 -DNDEBUG -o CMakeFiles/tsdf_mesh_gen.dir/main.cpp.o -c /home/wan/work/MARS/dataset/LIVO2_SZB/scripts/tsdf_gen/main.cpp",
+  "file": "/home/wan/work/MARS/dataset/LIVO2_SZB/scripts/tsdf_gen/main.cpp",
+  "output": "CMakeFiles/tsdf_mesh_gen.dir/main.cpp.o"
+}
+]
